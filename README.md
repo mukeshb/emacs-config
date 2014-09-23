@@ -1,4 +1,4 @@
-emams-config
+emacs-config
 ============
 
 My emacs configs
